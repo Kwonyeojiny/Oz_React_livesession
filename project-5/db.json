@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post",
+      "body": "This is the first post."
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "body": "This is the second post."
+    },
+    {
+      "id": "c05f",
+      "title": "제목제목",
+      "body": "내용내용"
+    },
+    {
+      "id": "bdba",
+      "title": "제목이다",
+      "body": "내용이다"
+    }
+  ]
+}
